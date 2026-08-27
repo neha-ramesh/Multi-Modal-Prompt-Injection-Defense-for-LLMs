@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+openai-whisper
+Pillow
+pytesseract
+python-dotenv
+google-generativeai
+python-multipart
