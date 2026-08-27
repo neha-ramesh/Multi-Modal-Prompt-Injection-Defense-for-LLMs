@@ -1,4 +1,4 @@
-# 🛡️ Multi-Modal Prompt Injection Defense
+# 🛡️ Multi-Modal Prompt Injection Defense for LLMs
 
 A multi-modal security pipeline designed to detect and block potentially malicious prompts before they are forwarded to a Large Language Model (LLM).
 
